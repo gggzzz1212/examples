@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T01:46:50.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="5FuoQ4ZKvHk7JxxVqcK6" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-24T01:49:54.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="fd-hHlUaR9Qa1Lb1Lhrl" version="21.2.1" type="github" pages="3">
   <diagram name="旧平台" id="旧平台">
     <mxGraphModel dx="1221" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="新平台" id="新平台">
-    <mxGraphModel dx="2455" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="连接线" parent="0" />
@@ -663,6 +663,24 @@
             <Array as="points">
               <mxPoint x="-80" y="-773" />
               <mxPoint x="-134" y="-773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1VBBF_IqByfQoA9zXC8y-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-83.59999999999991" y="-637.6039999999999" as="sourcePoint" />
+            <mxPoint x="-72" y="-638" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-72" y="-638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1VBBF_IqByfQoA9zXC8y-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.014;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-14.999999999999908" y="-637.554" as="sourcePoint" />
+            <mxPoint x="-3.3999999999999986" y="-637.95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3.3999999999999986" y="-637.95" />
             </Array>
           </mxGeometry>
         </mxCell>
